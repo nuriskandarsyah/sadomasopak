@@ -10,13 +10,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
   <style>
     :root{
-      --bg:#FFF2C9;        /* krem lembut */
-      --bg-soft:#FFE9A9;   /* krem lebih tua */
-      --text:#0E3A2C;      /* hijau tua */
+      --bg:#FFF2C9;
+      --bg-soft:#FFE9A9;
+      --text:#0E3A2C;
       --text-soft:#2F5C48; 
-      --accent:#0F6B45;    /* tombol hijau */
+      --accent:#0F6B45;
       --accent-2:#0A4C31; 
-      --ring:#E7C979;      /* untuk border halus */
+      --ring:#E7C979;
     }
     *{box-sizing:border-box}
     html,body{margin:0;padding:0}
@@ -81,7 +81,6 @@
       <div class="brand">Kerupuk Opak <b>Sadomas</b></div>
       <nav>
         <a href="#tentang">Tentang</a>
-        <a href="#visi-misi">Visi & Misi</a>
         <a href="#pesan">Pesan</a>
       </nav>
     </div>
@@ -125,31 +124,12 @@
     </div>
   </section>
 
-  <!-- VISI & MISI -->
-  <section id="visi-misi" class="section" style="background:linear-gradient(180deg, #FFF9E6 0%, var(--bg) 100%)">
-    <div class="container grid grid-2">
-      <div>
-        <h2>Visi</h2>
-        <p class="muted">Melestarikan jajanan tradisional sekaligus meningkatkan kesejahteraan masyarakat desa melalui UMKM yang berkelanjutan.</p>
-      </div>
-      <div>
-        <h2>Misi</h2>
-        <ol class="list">
-          <li>Menghasilkan kerupuk opak berkualitas tinggi.</li>
-          <li>Menjaga cita rasa khas tradisional.</li>
-          <li>Memberdayakan tenaga kerja lokal dan pelaku UMKM.</li>
-          <li>Memperluas pemasaran melalui kanal digital.</li>
-        </ol>
-      </div>
-    </div>
-  </section>
-
   <!-- CTA AKHIR -->
   <section class="section">
     <div class="container card" style="padding:24px; text-align:center">
       <h2>Siap Coba Kerupuk Opak Paling Renyah?</h2>
       <p class="muted">Klik tombol di bawah untuk pemesanan via WhatsApp. Tersedia kemasan ecer & grosir.</p>
-      <a class="cta" href="https://wa.me/6281234567890?text=Halo%20saya%20ingin%20pesan%20Kerupuk%20Opak%20Sadomas" target="_blank" rel="noopener">Pesan via WhatsApp</a>
+      <a class="cta" href="https://wa.me/6281235495774?text=Halo%20saya%20ingin%20pesan%20Kerupuk%20Opak%20Sadomas" target="_blank" rel="noopener">Pesan via WhatsApp</a>
     </div>
   </section>
 
