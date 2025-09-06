@@ -106,7 +106,7 @@
 
     <div class="card card--soft">
       <!-- Ganti src dengan foto produk Anda -->
-      <img class="photo" src="https://placehold.co/960x720?text=Kerupuk+Opak+Sadomas" alt="Kerupuk Opak Sadomas"/>
+      <img class="photo" src="{{ asset('images/awal.png') }}" alt="Kerupuk Opak Sadomas"/>
     </div>
   </section>
 
@@ -119,7 +119,7 @@
         <p>Kami memadukan resep turun-temurun dengan proses produksi yang higienis agar aman dikonsumsi seluruh keluarga.</p>
       </div>
       <div class="card">
-        <img class="photo" src="https://placehold.co/960x720?text=Proses+Produksi+Higienis" alt="Proses produksi kerupuk opak"/>
+        <img class="photo" src="{{ asset('images/2.jpg') }}" alt="Proses produksi kerupuk opak"/>
       </div>
     </div>
   </section>
