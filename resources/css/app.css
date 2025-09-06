@@ -1,0 +1,36 @@
+/* resources/css/app.css */
+
+/* Import Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+@layer base {
+    body {
+        font-family: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif;
+        background-color: #f8f9fa; /* contoh background ringan */
+        color: #333; /* warna teks default */
+        line-height: 1.6;
+    }
+
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: 600;
+    }
+}
+
+/* Contoh tambahan kelas kustom jika dibutuhkan */
+@layer components {
+    .btn-primary {
+        @apply bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition;
+    }
+    
+    .card {
+        @apply bg-white shadow-md rounded p-4;
+    }
+}
