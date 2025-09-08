@@ -104,7 +104,7 @@
     </div>
 
     <div class="card card--soft">
-      <img class="photo" src="{{ asset('images/3.png') }}" alt="Foto produk Kerupuk Opak Sadomas"/>
+      <img class="photo" src="{{ asset('images/3.jpg') }}" alt="Foto produk Kerupuk Opak Sadomas"/>
     </div>
   </section>
 
