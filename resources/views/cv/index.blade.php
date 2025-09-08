@@ -94,7 +94,6 @@
       <p class="tagline">Gurih, Renyah, Tradisional!</p>
       <p class="lead">Selamat datang di UMKM Kerupuk Opak Sadomas, produk unggulan desa kami yang dibuat dari bahan pilihan berkualitas. Diproduksi secara tradisional namun higienis – cocok untuk camilan maupun pelengkap makanan.</p>
       <a id="pesan" class="cta" href="https://wa.me/6281235495774?text=Halo%20saya%20ingin%20pesan%20Kerupuk%20Opak%20Sadomas" target="_blank" rel="noopener">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M20.52 3.48A11.89 11.89 0 0 0 2.06 16.2L1 21.75l5.69-1.04a11.9 11.9 0 0 0 5.7 1.46h.01c6.56 0 11.89-5.34 11.89-11.9 0-3.18-1.24-6.17-3.77-7.79Z" stroke="#fff" stroke-width="2"/><path d="M16.9 13.77c-.22.63-1.1 1.16-1.53 1.2-.41.04-.95.06-1.54-.09-.35-.09-.8-.27-1.38-.53a9.77 9.77 0 0 1-3.4-3.02 3.8 3.8 0 0 1-.82-2.04c.02-.86.47-1.7 1.03-1.9.26-.1.58-.05.75.15.19.24.43.61.54.86.18.38.14.56.03.77-.12.23-.25.37-.38.58-.11.16-.24.33-.1.62.14.3.61 1.24 1.43 2.01.99.96 1.83 1.28 2.14 1.42.3.14.47.12.64-.07.17-.2.73-.86.93-1.16.2-.3.4-.25.66-.15.26.1 1.65.78 1.94.95.28.17.47.27.54.42.07.14.07.59-.02.89Z" fill="#fff"/></svg>
         Pesan Sekarang
       </a>
       <div class="features">
@@ -105,8 +104,7 @@
     </div>
 
     <div class="card card--soft">
-      <!-- Ganti src dengan foto produk Anda -->
-      <img class="photo" src="{{ asset('images/3.png') }}" alt="Kerupuk Opak Sadomas"/>
+      <img class="photo" src="{{ asset('images/3.png') }}" alt="Foto produk Kerupuk Opak Sadomas"/>
     </div>
   </section>
 
@@ -119,7 +117,7 @@
         <p>Kami memadukan resep turun-temurun dengan proses produksi yang higienis agar aman dikonsumsi seluruh keluarga.</p>
       </div>
       <div class="card">
-        <img class="photo" src="{{ asset('images/2.jpg') }}" alt="Proses produksi kerupuk opak"/>
+        <img class="photo" src="{{ asset('images/2.jpg') }}" alt="Proses produksi kerupuk opak Sadomas"/>
       </div>
     </div>
   </section>
@@ -129,7 +127,9 @@
     <div class="container card" style="padding:24px; text-align:center">
       <h2>Siap Coba Kerupuk Opak Paling Renyah?</h2>
       <p class="muted">Klik tombol di bawah untuk pemesanan via WhatsApp. Tersedia kemasan ecer & grosir.</p>
-<a id="pesan" class="cta" href="https://wa.me/6281235495774?text=Halo%20saya%20ingin%20pesan%20opak%20manis%20Mimi%20Wilis%20Sadomas" target="_blank" rel="noopener">
+      <a id="pesan-akhir" class="cta" href="https://wa.me/6281235495774?text=Halo%20saya%20ingin%20pesan%20Opak%20Sadomas" target="_blank" rel="noopener">
+        Pesan Sekarang
+      </a>
     </div>
   </section>
 
