@@ -106,7 +106,7 @@
 
     <div class="card card--soft">
       <!-- Ganti src dengan foto produk Anda -->
-      <img class="photo" src="{{ asset('images/awal.png') }}" alt="Kerupuk Opak Sadomas"/>
+      <img class="photo" src="{{ asset('images/3.png') }}" alt="Kerupuk Opak Sadomas"/>
     </div>
   </section>
 
@@ -129,7 +129,7 @@
     <div class="container card" style="padding:24px; text-align:center">
       <h2>Siap Coba Kerupuk Opak Paling Renyah?</h2>
       <p class="muted">Klik tombol di bawah untuk pemesanan via WhatsApp. Tersedia kemasan ecer & grosir.</p>
-      <a class="cta" href="https://wa.me/6281235495774?text=Halo%20saya%20ingin%20pesan%20Kerupuk%20Opak%20Sadomas" target="_blank" rel="noopener">Pesan via WhatsApp</a>
+<a id="pesan" class="cta" href="https://wa.me/6281235495774?text=Halo%20saya%20ingin%20pesan%20opak%20manis%20Mimi%20Wilis%20Sadomas" target="_blank" rel="noopener">
     </div>
   </section>
 
